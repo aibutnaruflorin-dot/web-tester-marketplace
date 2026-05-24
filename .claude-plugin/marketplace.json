@@ -1,0 +1,20 @@
+{
+  "name": "web-testing-tools",
+  "owner": {
+    "name": "Florin"
+  },
+  "metadata": {
+    "description": "Florin's toolkit for automated testing of websites and web apps with Claude Code — Playwright-based.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "web-tester",
+      "source": "./plugins/web-tester",
+      "description": "End-to-end automated testing pipeline: 6 coordinated skills (test plan, write specs, verify specs, run, defect triage, plus an orchestrator) and 2 safety hooks. Uses Playwright.",
+      "version": "1.0.0",
+      "category": "testing",
+      "tags": ["testing", "playwright", "e2e", "qa", "regression", "smoke", "accessibility", "visual"]
+    }
+  ]
+}

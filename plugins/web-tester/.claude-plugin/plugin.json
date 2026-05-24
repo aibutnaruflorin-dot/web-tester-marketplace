@@ -1,0 +1,20 @@
+{
+  "name": "web-tester",
+  "description": "An end-to-end automated testing pipeline for websites and web apps. Provides six coordinated skills — test plan, write specs, verify specs, run, defect triage, plus an orchestrator — and two safety hooks. Uses Playwright.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Florin"
+  },
+  "keywords": [
+    "testing",
+    "playwright",
+    "e2e",
+    "qa",
+    "regression",
+    "smoke",
+    "api-testing",
+    "accessibility",
+    "visual-regression",
+    "automation"
+  ]
+}

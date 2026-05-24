@@ -1,0 +1,20 @@
+# Reference clone of the web-builder template — not part of this repo.
+_reference/
+
+# Local Claude Code settings.
+.claude/settings.local.json
+
+# Node / Playwright artifacts (only relevant if someone uses this folder as a
+# testing project too — defensive).
+node_modules/
+test-results/
+playwright-report/
+tests/storageState.json
+.env
+
+# OS / editor noise.
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
